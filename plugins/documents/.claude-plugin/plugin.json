@@ -1,0 +1,8 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "Build and read Office/PDF files and frontends: docx, xlsx, pptx, pdf, file reading, frontend design, video making, skill creator.",
+  "author": {
+    "name": "Valoris1977"
+  }
+}
